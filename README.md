@@ -26,4 +26,4 @@ Your feedback and ideas for improvement are welcome.
 ```
 
 # Google Colab
-![image](https://github.com/voidbydefault/autoEquityResearch/assets/101434467/3fd8c05a-8383-423c-828d-0fc345b06aba)
+To open in Google Colab and run in your browser, click here ![image](https://github.com/voidbydefault/autoEquityResearch/assets/101434467/3fd8c05a-8383-423c-828d-0fc345b06aba)
