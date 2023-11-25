@@ -6,15 +6,17 @@ Welcome to this *work-in-progress* tool designed to assist analysts in automatin
 
 This tool automates the process of gathering both technical and fundamental information. By default, it covers companies listed on the Saudi stock exchange. You can customize the selection by adding your preferred stock tickers; refer to the `How to Select Companies` section for guidance.
 
-## How to Use
+## How to Use?
 
-1. If you're new to Python, simply press CTRL+F9 to execute the script. Wait until it finishes running, and an Excel file named `colab_stock_data.xlsx` is saved in your Downloads folder.
+1. Open link to Google Colab to run in your browser, click [here](https://colab.research.google.com/drive/1E8paFFe68bPWe8vEcwcbUxjhMj5N45ej?usp=sharing).
 
-2. You may also run this on your mobile devices. However, you will need a spreadsheet/Excel app.
+2. Press CTRL+F9 to execute the script. Wait until it finishes running, and an Excel file named `colab_stock_data.xlsx` is saved in your Downloads folder.
 
-## How to Select Companies
+Note: You may also run this on your mobile devices. However, you will need a spreadsheet/Excel app.
 
-Navigate to the `Select Your Companies` section below and modify the list of stock tickers according to your preferences. You can find ticker names on https://finance.yahoo.com/ for use in this tool.
+## How to Select Companies?
+
+Navigate to the `Select Your Companies` section in Google Colab and modify the list of stock tickers. You can find ticker names on https://finance.yahoo.com/ for use in this script.
 
 ```
 **Disclaimer:** This tool is provided for educational and recreational
@@ -24,6 +26,3 @@ or implied warranties.
 
 Your feedback and ideas for improvement are welcome.
 ```
-
-# Google Colab
-To open in Google Colab and run in your browser, click [here](https://colab.research.google.com/drive/1E8paFFe68bPWe8vEcwcbUxjhMj5N45ej?usp=sharing).
