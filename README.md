@@ -1,28 +1,30 @@
-# Welcome to Automated Equity Investment Research
+**Aviso: Este projeto é um *fork* do projeto original, que pode ser encontrado em: [https://github.com/voidbydefault/autoEquityResearch](https://github.com/voidbydefault/autoEquityResearch)**
 
-Welcome to this *work-in-progress* tool designed to assist analysts in automating equity investment research for stocks of choice and discovering potential investment opportunities.
+# Bem-vindo(a) à Análise Automatizada de Investimentos em Ações
 
-## What Does This Tool Do?
+Bem-vindo(a) a esta ferramenta *em desenvolvimento*, projetada para auxiliar analistas a automatizar a análise de investimentos em ações de sua escolha e a descobrir potenciais oportunidades de investimento.
 
-This tool automates the process of gathering both technical and fundamental information. By default, it covers companies listed on the Saudi stock exchange. You can customize the selection by adding your preferred stock tickers; refer to the `How to Select Companies` section for guidance.
+## O que esta ferramenta faz?
 
-## How to Use?
+Esta ferramenta automatiza o processo de coleta de informações, tanto técnicas quanto fundamentais. Por padrão, ela abrange empresas listadas na bolsa de valores da Arábia Saudita. Você pode personalizar a seleção adicionando os tickers de suas ações preferidas; consulte a seção `Como Selecionar Empresas` para mais detalhes.
 
-1. Open link to Google Colab to run in your browser, click [here](https://colab.research.google.com/drive/1E8paFFe68bPWe8vEcwcbUxjhMj5N45ej?usp=sharing).
+## Como Usar?
 
-2. Press CTRL+F9 to execute the script. Wait until it finishes running, and an Excel file named `colab_stock_data.xlsx` is saved in your Downloads folder.
+1.  Abra o link do Google Colab para executar em seu navegador, clicando [aqui](https://colab.research.google.com/drive/1E8paFFe68bPWe8vEcwcbUxjhMj5N45ej?usp=sharing).
 
-Note: You may also run this on your mobile devices. However, you will need a spreadsheet/Excel app.
+2.  Pressione CTRL+F9 para executar o script. Espere até que a execução termine, e um arquivo Excel chamado `colab_stock_data.xlsx` será salvo na sua pasta de Downloads.
 
-## How to Select Companies?
+Nota: Você também pode executar o script em seus dispositivos móveis. No entanto, você precisará de um aplicativo de planilhas/Excel.
 
-Navigate to the `Select Your Companies` section in Google Colab and modify the list of stock tickers. You can find ticker names on https://finance.yahoo.com/ for use in this script.
+## Como Selecionar Empresas?
+
+Navegue até a seção "Selecione Suas Empresas" (`Select Your Companies`) no Google Colab e modifique a lista de tickers. Você pode encontrar os nomes dos tickers no site https://finance.yahoo.com/ para usar neste script.
 
 ```
-**Disclaimer:** This tool is provided for educational and recreational
-purposes and should not be considered as investment advice. Information
-is sourced from Yahoo! Finance and is provided as-is, without any expressed
-or implied warranties.
+**Aviso Legal:** Esta ferramenta é fornecida para fins educacionais e
+recreativos e não deve ser considerada como aconselhamento de investimento.
+As informações são obtidas do Yahoo! Finance e são fornecidas "como estão"
+(as-is), sem quaisquer garantias expressas ou implícitas.
 
-Your feedback and ideas for improvement are welcome.
+Seu feedback e suas ideias para melhorias são bem-vindos.
 ```
